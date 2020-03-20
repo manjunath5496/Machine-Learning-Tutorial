@@ -265,3 +265,69 @@
 
 </br>
 
+<div class="toctitle" dir="ltr" lang="en">
+<h2 id="mw-toc-heading">Contents</h2>
+<label class="toctogglelabel" for="toctogglecheckbox"></label></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Overview"><span class="toctext">Overview</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Machine_learning_tasks"><span class="toctext">Machine learning tasks</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-3"><a href="#History_and_relationships_to_other_fields"><span class="toctext">History and relationships to other fields</span></a>
+<ul>
+<li class="toclevel-2 tocsection-4"><a href="#Relation_to_data_mining"><span class="toctext">Relation to data mining</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Relation_to_optimization"><span class="toctext">Relation to optimization</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#Relation_to_statistics"><span class="toctext">Relation to statistics</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-7"><a href="#Theory"><span class="toctext">Theory</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#Approaches"><span class="toctext">Approaches</span></a>
+<ul>
+<li class="toclevel-2 tocsection-9"><a href="#Types_of_learning_algorithms"><span class="toctext">Types of learning algorithms</span></a>
+<ul>
+<li class="toclevel-3 tocsection-10"><a href="#Supervised_learning"><span class="toctext">Supervised learning</span></a></li>
+<li class="toclevel-3 tocsection-11"><a href="#Unsupervised_learning"><span class="toctext">Unsupervised learning</span></a></li>
+<li class="toclevel-3 tocsection-12"><a href="#Reinforcement_learning"><span class="toctext">Reinforcement learning</span></a></li>
+<li class="toclevel-3 tocsection-13"><a href="#Self_learning"><span class="toctext">Self learning</span></a></li>
+<li class="toclevel-3 tocsection-14"><a href="#Feature_learning"><span class="toctext">Feature learning</span></a></li>
+<li class="toclevel-3 tocsection-15"><a href="#Sparse_dictionary_learning"><span class="toctext">Sparse dictionary learning</span></a></li>
+<li class="toclevel-3 tocsection-16"><a href="#Anomaly_detection"><span class="toctext">Anomaly detection</span></a></li>
+<li class="toclevel-3 tocsection-17"><a href="#Association_rules"><span class="toctext">Association rules</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-18"><a href="#Models"><span class="toctext">Models</span></a>
+<ul>
+<li class="toclevel-3 tocsection-19"><a href="#Artificial_neural_networks"><span class="toctext">Artificial neural networks</span></a></li>
+<li class="toclevel-3 tocsection-20"><a href="#Decision_trees"><span class="toctext">Decision trees</span></a></li>
+<li class="toclevel-3 tocsection-21"><a href="#Support_vector_machines"><span class="toctext">Support vector machines</span></a></li>
+<li class="toclevel-3 tocsection-22"><a href="#Regression_analysis"><span class="toctext">Regression analysis</span></a></li>
+<li class="toclevel-3 tocsection-23"><a href="#Bayesian_networks"><span class="toctext">Bayesian networks</span></a></li>
+<li class="toclevel-3 tocsection-24"><a href="#Genetic_algorithms"><span class="toctext">Genetic algorithms</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-25"><a href="#Training_models"><span class="toctext">Training models</span></a>
+<ul>
+<li class="toclevel-3 tocsection-26"><a href="#Federated_learning"><span class="toctext">Federated learning</span></a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-27"><a href="#Applications"><span class="toctext">Applications</span></a></li>
+<li class="toclevel-1 tocsection-28"><a href="#Limitations"><span class="toctext">Limitations</span></a>
+<ul>
+<li class="toclevel-2 tocsection-29"><a href="#Bias"><span class="toctext">Bias</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-30"><a href="#Model_assessments"><span class="toctext">Model assessments</span></a></li>
+<li class="toclevel-1 tocsection-31"><a href="#Ethics"><span class="toctext">Ethics</span></a></li>
+<li class="toclevel-1 tocsection-32"><a href="#Software"><span class="toctext">Software</span></a>
+<ul>
+<li class="toclevel-2 tocsection-33"><a href="#Free_and_open-source_software"><span class="toctext">Free and open-source software</span></a></li>
+<li class="toclevel-2 tocsection-34"><a href="#Proprietary_software_with_free_and_open-source_editions"><span class="toctext">Proprietary software with free and open-source editions</span></a></li>
+<li class="toclevel-2 tocsection-35"><a href="#Proprietary_software"><span class="toctext">Proprietary software</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-36"><a href="#Journals"><span class="toctext">Journals</span></a></li>
+<li class="toclevel-1 tocsection-37"><a href="#Conferences"><span class="toctext">Conferences</span></a></li>
+</ul>
