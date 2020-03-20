@@ -648,118 +648,65 @@ A simple Bayesian network. Rain influences whether the sprinkler is activated, a
 <li><a target="_blank" href="https://github.com/manjunath5496/Machine-Learning-Tutorial/blob/master/mac(20).pdf" style="text-decoration:none;">Hands-On Machine Learning with Scikit-Learn and TensorFlow</a></li>
 
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Machine-Learning-Tutorial/blob/master/mac(21).pdf" style="text-decoration:none;">Decision Making in Medicine: An Algorithmic Approach</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Machine-Learning-Tutorial/blob/master/mac(21).pdf" style="text-decoration:none;">Introducing Data Science</a></li>
                             
- <li><a target="_blank" href="https://github.com/manjunath5496/Machine-Learning-Tutorial/blob/master/mac(22).pdf" style="text-decoration:none;">Essential Algorithms: A Practical Approach to Computer Algorithms</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Machine-Learning-Tutorial/blob/master/mac(22).pdf" style="text-decoration:none;">Introduction to Machine Learning</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Machine-Learning-Tutorial/blob/master/mac(23).rar" style="text-decoration:none;">Evolutionary Algorithms in Engineering and Computer Science</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Machine-Learning-Tutorial/blob/master/mac(24).pdf" style="text-decoration:none;">Fundamentals of Computer Algorithms</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Machine-Learning-Tutorial/blob/master/mac(25).pdf" style="text-decoration:none;">Learning Algorithms Through Programming and Puzzle Solving</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Machine-Learning-Tutorial/blob/master/mac(23).pdf" style="text-decoration:none;">Kernel Methods and Machine Learning</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Machine-Learning-Tutorial/blob/master/mac(24).pdf" style="text-decoration:none;">Learn Keras for Deep Neural Networks: A Fast-Track Approach to Modern Deep Learning with Python</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Machine-Learning-Tutorial/blob/master/mac(25).pdf" style="text-decoration:none;">Machine Learning For Absolute Beginners</a></li>
 
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Machine-Learning-Tutorial/blob/master/mac(26).pdf" style="text-decoration:none;">Data Structures and Algorithms for Big Databases</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Machine-Learning-Tutorial/blob/master/mac(26).pdf" style="text-decoration:none;">Machine Learning For Dummies</a></li>
                             
- <li><a target="_blank" href="https://github.com/manjunath5496/Machine-Learning-Tutorial/blob/master/mac(27).pdf" style="text-decoration:none;">Algorithms to Live By</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Machine-Learning-Tutorial/blob/master/mac(27).pdf" style="text-decoration:none;">Machine Learning for Hackers</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Machine-Learning-Tutorial/blob/master/mac(28).pdf" style="text-decoration:none;">Foundations of Algorithms</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Machine-Learning-Tutorial/blob/master/mac(29).pdf" style="text-decoration:none;">Guide to Competitive Programming: Learning and Improving Algorithms Through Contests</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Machine-Learning-Tutorial/blob/master/mac(30).pdf" style="text-decoration:none;">Analysis of Algorithms: An Active Learning Approach</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Machine-Learning-Tutorial/blob/master/mac(28).pdf" style="text-decoration:none;">Machine Learning: Hands-On for Developers and Technical Professionals</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Machine-Learning-Tutorial/blob/master/mac(29).pdf" style="text-decoration:none;">Machine Learning in Computer Vision</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Machine-Learning-Tutorial/blob/master/mac(30).pdf" style="text-decoration:none;">Machine Learning Models and Algorithms for Big Data Classification</a></li>
 
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Machine-Learning-Tutorial/blob/master/mac(31).pdf" style="text-decoration:none;">Machine Learning: An Algorithmic Perspective</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Machine-Learning-Tutorial/blob/master/mac(31).pdf" style="text-decoration:none;">Machine Learning with Python Cookbook: Practical Solutions from Preprocessing to Deep Learning</a></li>
                             
- <li><a target="_blank" href="https://github.com/manjunath5496/Machine-Learning-Tutorial/blob/master/mac(32).pdf" style="text-decoration:none;">Statistical Arbitrage: Algorithmic Trading Insights and Techniques</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Machine-Learning-Tutorial/blob/master/mac(32).pdf" style="text-decoration:none;">Machine Learning with R</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Machine-Learning-Tutorial/blob/master/mac(33).pdf" style="text-decoration:none;">The Algorithm Design Manual</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Machine-Learning-Tutorial/blob/master/mac(34).pdf" style="text-decoration:none;">The Art of Computer Programming: Volume 1: Fundamental Algorithms</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Machine-Learning-Tutorial/blob/master/mac(35).pdf" style="text-decoration:none;">The Art of Computer Programming, Volume 2: Seminumerical Algorithms</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Machine-Learning-Tutorial/blob/master/mac(33).rar" style="text-decoration:none;">The Algorithm Design Manual</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Machine-Learning-Tutorial/blob/master/mac(34).rar" style="text-decoration:none;">Machine Learning: A Probabilistic Perspective</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Machine-Learning-Tutorial/blob/master/mac(35).pdf" style="text-decoration:none;">Machine Learning: An Algorithmic Perspective</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Machine-Learning-Tutorial/blob/master/mac(36).pdf" style="text-decoration:none;">The Master Algorithm: How the Quest for the Ultimate Learning Machine Will Remake Our World</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Machine-Learning-Tutorial/blob/master/mac(37).pdf" style="text-decoration:none;">Think Data Structures: Algorithms and Information Retrieval in Java</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Machine-Learning-Tutorial/blob/master/mac(36).pdf" style="text-decoration:none;">Machine Learning: End-to-End guide for Java developers</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Machine-Learning-Tutorial/blob/master/mac(37).pdf" style="text-decoration:none;">Machine Learning: Step-by-Step Guide To Implement Machine Learning Algorithms with Python</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Machine-Learning-Tutorial/blob/master/mac(38).pdf" style="text-decoration:none;">Algorithms for Data Science</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Machine-Learning-Tutorial/blob/master/mac(38).pdf" style="text-decoration:none;">Machine Learning in Action</a></li>
                             
- <li><a target="_blank" href="https://github.com/manjunath5496/Machine-Learning-Tutorial/blob/master/mac(39).pdf" style="text-decoration:none;">Artificial Intelligence for Humans, Volume 1: Fundamental Algorithms</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Machine-Learning-Tutorial/blob/master/mac(39).pdf" style="text-decoration:none;">Master Machine Learning Algorithms: Discover How They Work and Implement Them From Scratch</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Machine-Learning-Tutorial/blob/master/mac(40).pdf" style="text-decoration:none;">Bioinformatics Algorithms: Techniques and Applications </a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Machine-Learning-Tutorial/blob/master/mac(40).pdf" style="text-decoration:none;">Mastering Apache Spark 2.x</a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/Machine-Learning-Tutorial/blob/master/mac(41).pdf" style="text-decoration:none;">Data Algorithms</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Machine-Learning-Tutorial/blob/master/mac(42).pdf" style="text-decoration:none;">Hands-On Machine Learning for Algorithmic Trading</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Machine-Learning-Tutorial/blob/master/mac(42).pdf" style="text-decoration:none;">Mastering TensorFlow 1.x</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Machine-Learning-Tutorial/blob/master/mac(43).pdf" style="text-decoration:none;">Internet-of-Things (IoT) Systems: Architectures, Algorithms, Methodologies</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Machine-Learning-Tutorial/blob/master/mac(44).pdf" style="text-decoration:none;">Introduction to the Design and Analysis of Algorithms</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Machine-Learning-Tutorial/blob/master/mac(45).pdf" style="text-decoration:none;">Master Machine Learning Algorithms: Discover How They Work and Implement Them From Scratch</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Machine-Learning-Tutorial/blob/master/mac(43).pdf" style="text-decoration:none;">MATLAB Deep Learning: With Machine Learning, Neural Networks and Artificial Intelligence</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Machine-Learning-Tutorial/blob/master/mac(44).pdf" style="text-decoration:none;">MATLAB Machine Learning</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Machine-Learning-Tutorial/blob/master/mac(45).pdf" style="text-decoration:none;">Monetizing Machine Learning: Quickly Turn Python ML Ideas into Web Applications on the Serverless Cloud</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Machine-Learning-Tutorial/blob/master/mac(46).pdf" style="text-decoration:none;">Network Routing: Algorithms, Protocols, and Architectures</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Machine-Learning-Tutorial/blob/master/mac(47).pdf" style="text-decoration:none;">Numerical Methods: Design, Analysis, and Computer Implementation of Algorithms</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Machine-Learning-Tutorial/blob/master/mac(48).pdf" style="text-decoration:none;">Pro Machine Learning Algorithms</a></li>  
+ <li><a target="_blank" href="https://github.com/manjunath5496/Machine-Learning-Tutorial/blob/master/mac(46).pdf" style="text-decoration:none;">Practical Machine Learning and Image Processing For Facial Recognition, Object Detection, and Pattern Recognition Using Python</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Machine-Learning-Tutorial/blob/master/mac(47).pdf" style="text-decoration:none;">Practical Machine Learning with H2O</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Machine-Learning-Tutorial/blob/master/mac(48).pdf" style="text-decoration:none;">Practical Machine Learning with Python: A Problem-Solver's Guide to Building Real-World Intelligent Systems</a></li>  
  
-<li><a target="_blank" href="https://github.com/manjunath5496/Machine-Learning-Tutorial/blob/master/mac(49).pdf" style="text-decoration:none;">Probability and Computing: Randomization and Probabilistic Techniques in Algorithms and Data Analysis</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Machine-Learning-Tutorial/blob/master/mac(50).pdf" style="text-decoration:none;">Python Data Structures and Algorithms</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Machine-Learning-Tutorial/blob/master/mac(49).pdf" style="text-decoration:none;">Python for Probability, Statistics, and Machine Learning</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Machine-Learning-Tutorial/blob/master/mac(50).pdf" style="text-decoration:none;">Scala for Machine Learning</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Machine-Learning-Tutorial/blob/master/mac(51).pdf" style="text-decoration:none;">Quantitative Trading: Algorithms, Analytics, Data, Models, Optimization</a></li> 
- <li><a target="_blank" href="https://github.com/manjunath5496/Machine-Learning-Tutorial/blob/master/mac(52).pdf" style="text-decoration:none;">Successful Algorithmic Trading</a></li> 
-<li><a target="_blank" href="https://github.com/manjunath5496/Machine-Learning-Tutorial/blob/master/mac(53).pdf" style="text-decoration:none;">Understanding Machine Learning: From Theory to Algorithms</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Machine-Learning-Tutorial/blob/master/mac(54).pdf" style="text-decoration:none;">Algorithm Engineering: Bridging the Gap between Algorithm Theory and Practice</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Machine-Learning-Tutorial/blob/master/mac(55).pdf" style="text-decoration:none;">Algorithmic Foundations of Robotics XI: Selected Contributions of the Eleventh International Workshop on the Algorithmic Foundations of Robotics</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Machine-Learning-Tutorial/blob/master/mac(51).pdf" style="text-decoration:none;">Statistical and Machine-Learning Data Mining: Techniques for Better Predictive Modeling and Analysis of Big Data</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Machine-Learning-Tutorial/blob/master/mac(52).pdf" style="text-decoration:none;">The Hundred-Page Machine Learning Book</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Machine-Learning-Tutorial/blob/master/mac(53).pdf" style="text-decoration:none;">The Master Algorithm: How the Quest for the Ultimate Learning Machine Will Remake Our World</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Machine-Learning-Tutorial/blob/master/mac(54).pdf" style="text-decoration:none;">Understanding Machine Learning: From Theory to Algorithms</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Machine-Learning-Tutorial/blob/master/mac(55).pdf" style="text-decoration:none;">Big data, artificial intelligence, machine learning and data protection</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Machine-Learning-Tutorial/blob/master/mac(56).pdf" style="text-decoration:none;">Algorithms in C++: Part 5: Graph Algorithms</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Machine-Learning-Tutorial/blob/master/mac(57).pdf" style="text-decoration:none;">Artificial Intelligence for Humans, Volume 2: Nature-Inspired Algorithms</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Machine-Learning-Tutorial/blob/master/mac(56).pdf" style="text-decoration:none;">Machine Learning with Spark</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Machine-Learning-Tutorial/blob/master/mac(57).pdf" style="text-decoration:none;">Practical Java Machine Learning Projects with Google Cloud Platform and Amazon Web Services</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Machine-Learning-Tutorial/blob/master/mac(58).pdf" style="text-decoration:none;">Machine Learning Models and Algorithms for Big Data Classification</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Machine-Learning-Tutorial/blob/master/mac(59).pdf" style="text-decoration:none;">Practical Algorithms in Pediatric Hematology and Oncology</a></li>
-
-<li><a target="_blank" href="https://github.com/manjunath5496/Machine-Learning-Tutorial/blob/master/mac(60).pdf" style="text-decoration:none;">Search and Optimization by Metaheuristics: Techniques and Algorithms Inspired by Nature</a></li>
-
- <li><a target="_blank" href="https://github.com/manjunath5496/Machine-Learning-Tutorial/blob/master/mac(61).pdf" style="text-decoration:none;">Algorithm-Aided Building Information Modeling: Connecting Algorithm-Aided Design and Object-Oriented Design</a></li> 
- <li><a target="_blank" href="https://github.com/manjunath5496/Machine-Learning-Tutorial/blob/master/mac(62).pdf" style="text-decoration:none;">Algorithms in a Nutshell</a></li> 
-<li><a target="_blank" href="https://github.com/manjunath5496/Machine-Learning-Tutorial/blob/master/mac(63).pdf" style="text-decoration:none;">Binary Quadratic Forms: An Algorithmic Approach</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Machine-Learning-Tutorial/blob/master/mac(64).pdf" style="text-decoration:none;">Encyclopedia of Algorithms</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Machine-Learning-Tutorial/blob/master/mac(65).pdf" style="text-decoration:none;">Fast Fourier Transform: Algorithms and Applications</a></li>
-
- <li><a target="_blank" href="https://github.com/manjunath5496/Machine-Learning-Tutorial/blob/master/mac(66).pdf" style="text-decoration:none;">First Course in Algorithms Through Puzzles</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Machine-Learning-Tutorial/blob/master/mac(67).pdf" style="text-decoration:none;">Genetic Algorithms in Java Basics</a></li>
-
-<li><a target="_blank" href="https://github.com/manjunath5496/Machine-Learning-Tutorial/blob/master/mac(68).pdf" style="text-decoration:none;">Geometric Algorithms and Combinatorial Optimization</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Machine-Learning-Tutorial/blob/master/mac(69).pdf" style="text-decoration:none;">Mastering Algorithms with C</a></li>
-
-<li><a target="_blank" href="https://github.com/manjunath5496/Machine-Learning-Tutorial/blob/master/mac(70).pdf" style="text-decoration:none;">Modern Algorithms for Image Processing: Computer Imagery by Example Using C#</a></li>
-
-
- <li><a target="_blank" href="https://github.com/manjunath5496/Machine-Learning-Tutorial/blob/master/mac(71).pdf" style="text-decoration:none;">Once Upon an Algorithm: How Stories Explain Computing</a></li> 
- <li><a target="_blank" href="https://github.com/manjunath5496/Machine-Learning-Tutorial/blob/master/mac(72).pdf" style="text-decoration:none;">Algorithms Unlocked</a></li> 
-<li><a target="_blank" href="https://github.com/manjunath5496/Machine-Learning-Tutorial/blob/master/mac(73).rar" style="text-decoration:none;">Machine Learning Refined: Foundations, Algorithms, and Applications</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Machine-Learning-Tutorial/blob/master/mac(74).pdf" style="text-decoration:none;">The Algorithmic Beauty of Plants</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Machine-Learning-Tutorial/blob/master/mac(75).pdf" style="text-decoration:none;">Algorithm Design and Applications</a></li>
-
- <li><a target="_blank" href="https://github.com/manjunath5496/Machine-Learning-Tutorial/blob/master/mac(76).pdf" style="text-decoration:none;">Bioinformatics Algorithms: An Active Learning Approach: 2nd Edition, Vol. I</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Machine-Learning-Tutorial/blob/master/mac(77).pdf" style="text-decoration:none;">Embedded Deep Learning: Algorithms, Architectures and Circuits for Always-on Neural Network Processing</a></li>
-
-<li><a target="_blank" href="https://github.com/manjunath5496/Machine-Learning-Tutorial/blob/master/mac(78).pdf" style="text-decoration:none;">Graphs, Networks and Algorithms</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Machine-Learning-Tutorial/blob/master/mac(79).pdf" style="text-decoration:none;">Harmony Search Algorithm: Proceedings of the 3rd International Conference on Harmony Search Algorithm (ICHSA 2017)</a></li>
-
-<li><a target="_blank" href="https://github.com/manjunath5496/Machine-Learning-Tutorial/blob/master/mac(80).pdf" style="text-decoration:none;">A Practical Introduction to Data Structures and Algorithm Analysis</a></li>
-
-
-<li><a target="_blank" href="https://github.com/manjunath5496/Machine-Learning-Tutorial/blob/master/mac(81).pdf" style="text-decoration:none;">TensorFlow for Machine Intelligence: A Hands-On Introduction to Learning Algorithms</a></li> 
- <li><a target="_blank" href="https://github.com/manjunath5496/Machine-Learning-Tutorial/blob/master/mac(82).pdf" style="text-decoration:none;">The Logic of Logistics: Theory, Algorithms, and Applications for Logistics and Supply Chain Management </a></li> 
-<li><a target="_blank" href="https://github.com/manjunath5496/Machine-Learning-Tutorial/blob/master/mac(83).pdf" style="text-decoration:none;">Algorithms and Parallel Computing</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Machine-Learning-Tutorial/blob/master/mac(84).pdf" style="text-decoration:none;">Algorithms for Sensor Systems: 14th International Symposium on Algorithms and Experiments for Wireless Sensor Networks, ALGOSENSORS 2018 Helsinki, Finland, August 23–24, 2018 Revised Selected Papers</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Machine-Learning-Tutorial/blob/master/mac(85).pdf" style="text-decoration:none;">Approximation Algorithms for Complex Systems</a></li>
-
- <li><a target="_blank" href="https://github.com/manjunath5496/Machine-Learning-Tutorial/blob/master/mac(86).pdf" style="text-decoration:none;">Artificial Intelligence: A Modern Approach</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Machine-Learning-Tutorial/blob/master/mac(87).pdf" style="text-decoration:none;">Classification Algorithms for Codes and Designs</a></li>
-
-<li><a target="_blank" href="https://github.com/manjunath5496/Machine-Learning-Tutorial/blob/master/mac(88).rar" style="text-decoration:none;">Computer Vision: Algorithms and Applications</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Machine-Learning-Tutorial/blob/master/mac(89).rar" style="text-decoration:none;">Fundamentals of Robotic Mechanical Systems: Theory, Methods, and Algorithms</a></li>
-
-<li><a target="_blank" href="https://github.com/manjunath5496/Machine-Learning-Tutorial/blob/master/mac(90).pdf" style="text-decoration:none;">Hierarchical Bayesian Optimization Algorithm: Toward a New Generation of Evolutionary Algorithms</a></li>
-
-<li><a target="_blank" href="https://github.com/manjunath5496/Machine-Learning-Tutorial/blob/master/mac(91).pdf" style="text-decoration:none;">Ideals, Varieties, and Algorithms: An Introduction to Computational Algebraic Geometry and Commutative Algebra</a></li>
-
- <li><a target="_blank" href="https://github.com/manjunath5496/Machine-Learning-Tutorial/blob/master/mac(92).pdf" style="text-decoration:none;">Machine Learning: The New AI</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Machine-Learning-Tutorial/blob/master/mac(93).pdf" style="text-decoration:none;">Mathematics of Multidimensional Fourier Transform Algorithms</a></li>
-
-<li><a target="_blank" href="https://github.com/manjunath5496/Machine-Learning-Tutorial/blob/master/mac(94).pdf" style="text-decoration:none;">AI for Data Science: Artificial Intelligence Frameworks and Functionality for Deep Learning, Optimization, and Beyond</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Machine-Learning-Tutorial/blob/master/mac(58).pdf" style="text-decoration:none;">Reinforcement Learning With Open AI, TensorFlow and Keras Using Python</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Machine-Learning-Tutorial/blob/master/mac(59).pdf" style="text-decoration:none;">Artificial Neural Networks and Machine Learning – ICANN 2016</a></li>
 
 
 
