@@ -82,7 +82,7 @@
 <li><a title="Hierarchical clustering" href="https://en.wikipedia.org/wiki/Hierarchical_clustering">Hierarchical</a></li>
 <li><a title="K-means clustering" href="https://en.wikipedia.org/wiki/K-means_clustering"><em>k</em>-means</a></li>
 <li><a title="Expectation&ndash;maximization algorithm" href="https://en.wikipedia.org/wiki/Expectation%E2%80%93maximization_algorithm">Expectation&ndash;maximization (EM)</a></li>
-<li><br /><a title="DBSCAN" href="https://en.wikipedia.org/wiki/DBSCAN">DBSCAN</a></li>
+<li><a title="DBSCAN" href="https://en.wikipedia.org/wiki/DBSCAN">DBSCAN</a></li>
 <li><a title="OPTICS algorithm" href="https://en.wikipedia.org/wiki/OPTICS_algorithm">OPTICS</a></li>
 <li><a class="mw-redirect" title="Mean-shift" href="https://en.wikipedia.org/wiki/Mean-shift">Mean-shift</a></li>
 </ul>
