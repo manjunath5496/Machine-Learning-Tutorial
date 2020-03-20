@@ -447,3 +447,160 @@ Illustration of linear regression on a data set.</div>
 </div>
 <h4>&nbsp;Regression analysis</h4>
 <p>Regression analysis encompasses a large variety of statistical methods to estimate the relationship between input variables and their associated features. Its most common form is&nbsp;<a title="Linear regression" href="https://en.wikipedia.org/wiki/Linear_regression">linear regression</a>, where a single line is drawn to best fit the given data according to a mathematical criterion such as&nbsp;<a title="Ordinary least squares" href="https://en.wikipedia.org/wiki/Ordinary_least_squares">ordinary least squares</a>. The latter is oftentimes extended by&nbsp;<a title="Regularization (mathematics)" href="https://en.wikipedia.org/wiki/Regularization_(mathematics)">regularization (mathematics)</a>&nbsp;methods to mitigate overfitting and high bias, as can be seen in&nbsp;<a class="mw-redirect" title="Ridge regression" href="https://en.wikipedia.org/wiki/Ridge_regression">ridge regression</a>. When dealing with non-linear problems, go-to models include&nbsp;<a title="Polynomial regression" href="https://en.wikipedia.org/wiki/Polynomial_regression">polynomial regression</a>&nbsp;(e.g. used for trendline fitting in Microsoft Excel),&nbsp;<a title="Logistic regression" href="https://en.wikipedia.org/wiki/Logistic_regression">Logistic regression</a>&nbsp;(often used in&nbsp;<a title="Statistical classification" href="https://en.wikipedia.org/wiki/Statistical_classification">statistical classification</a>) or even&nbsp;<a title="Kernel regression" href="https://en.wikipedia.org/wiki/Kernel_regression">kernel regression</a>, which introduces non-linearity by taking advantage of the&nbsp;<a class="mw-redirect" title="Kernel trick" href="https://en.wikipedia.org/wiki/Kernel_trick">kernel trick</a>&nbsp;to implicitly map input variables to higher dimensional space.</p>
+<h4><span id="Bayesian_networks" class="mw-headline">Bayesian networks</span></h4>
+<div class="hatnote navigation-not-searchable">&nbsp;</div>
+<div class="thumb tright">
+<div class="thumbinner"><a class="image" href="220px-SimpleBayesNetNodes.png"><img class="thumbimage" src="220px-SimpleBayesNetNodes.png" srcset="220px-SimpleBayesNetNodes.png" alt="" width="220" height="114" data-file-width="246" data-file-height="128" /></a>
+<div class="thumbcaption">
+<div class="magnify">&nbsp;</div>
+A simple Bayesian network. Rain influences whether the sprinkler is activated, and both rain and the sprinkler influence whether the grass is wet.</div>
+<div class="thumbcaption">&nbsp;</div>
+</div>
+</div>
+<p>A Bayesian network, belief network or directed acyclic graphical model is a probabilistic&nbsp;<a title="Graphical model" href="https://en.wikipedia.org/wiki/Graphical_model">graphical model</a>&nbsp;that represents a set of&nbsp;<a class="mw-redirect" title="Random variables" href="https://en.wikipedia.org/wiki/Random_variables">random variables</a>&nbsp;and their&nbsp;<a title="Conditional independence" href="https://en.wikipedia.org/wiki/Conditional_independence">conditional independence</a>&nbsp;with a&nbsp;<a title="Directed acyclic graph" href="https://en.wikipedia.org/wiki/Directed_acyclic_graph">directed acyclic graph</a>&nbsp;(DAG). For example, a Bayesian network could represent the probabilistic relationships between diseases and symptoms. Given symptoms, the network can be used to compute the probabilities of the presence of various diseases. Efficient algorithms exist that perform&nbsp;<a title="Inference" href="https://en.wikipedia.org/wiki/Inference">inference</a>&nbsp;and learning. Bayesian networks that model sequences of variables, like&nbsp;<a title="Speech recognition" href="https://en.wikipedia.org/wiki/Speech_recognition">speech signals</a>&nbsp;or&nbsp;<a class="mw-redirect" title="Peptide sequence" href="https://en.wikipedia.org/wiki/Peptide_sequence">protein sequences</a>, are called&nbsp;<a title="Dynamic Bayesian network" href="https://en.wikipedia.org/wiki/Dynamic_Bayesian_network">dynamic Bayesian networks</a>. Generalizations of Bayesian networks that can represent and solve decision problems under uncertainty are called&nbsp;<a title="Influence diagram" href="https://en.wikipedia.org/wiki/Influence_diagram">influence diagrams</a>.</p>
+<h4><span id="Genetic_algorithms" class="mw-headline">Genetic algorithms</span></h4>
+<p>A genetic algorithm (GA) is a&nbsp;<a title="Search algorithm" href="https://en.wikipedia.org/wiki/Search_algorithm">search algorithm</a>&nbsp;and&nbsp;<a title="Heuristic (computer science)" href="https://en.wikipedia.org/wiki/Heuristic_(computer_science)">heuristic</a>&nbsp;technique that mimics the process of&nbsp;<a title="Natural selection" href="https://en.wikipedia.org/wiki/Natural_selection">natural selection</a>, using methods such as&nbsp;<a title="Mutation (genetic algorithm)" href="https://en.wikipedia.org/wiki/Mutation_(genetic_algorithm)">mutation</a>&nbsp;and&nbsp;<a title="Crossover (genetic algorithm)" href="https://en.wikipedia.org/wiki/Crossover_(genetic_algorithm)">crossover</a>&nbsp;to generate new&nbsp;<a title="Chromosome (genetic algorithm)" href="https://en.wikipedia.org/wiki/Chromosome_(genetic_algorithm)">genotypes</a>&nbsp;in the hope of finding good solutions to a given problem. In machine learning, genetic algorithms were used in the 1980s and 1990s.&nbsp;Conversely, machine learning techniques have been used to improve the performance of genetic and&nbsp;<a title="Evolutionary algorithm" href="https://en.wikipedia.org/wiki/Evolutionary_algorithm">evolutionary algorithms</a>.</p>
+<h3><span id="Training_models" class="mw-headline">Training models</span></h3>
+<p>Usually, machine learning models require a lot of data in order for them to perform well. Usually, when training a machine learning model, one needs to collect a large, representative sample of data from a training set. Data from the training set can be as varied as a corpus of text, a collection of images, and data collected from individual users of a service.&nbsp;<a title="Overfitting" href="https://en.wikipedia.org/wiki/Overfitting">Overfitting</a>&nbsp;is something to watch out for when training a machine learning model.</p>
+<h4><span id="Federated_learning" class="mw-headline">Federated learning</span></h4>
+<p>Federated learning is a new approach to training machine learning models that decentralizes the training process, allowing for users' privacy to be maintained by not needing to send their data to a centralized server. This also increases efficiency by decentralizing the training process to many devices. For example,&nbsp;<a title="Gboard" href="https://en.wikipedia.org/wiki/Gboard">Gboard</a>&nbsp;uses federated machine learning to train search query prediction models on users' mobile phones without having to send individual searches back to&nbsp;<a title="Google" href="https://en.wikipedia.org/wiki/Google">Google</a>.</p>
+<h2><span id="Applications" class="mw-headline">Applications</span></h2>
+<p>There are many applications for machine learning, including:</p>
+<div class="div-col columns column-width">
+<ul>
+<li><a title="Precision agriculture" href="https://en.wikipedia.org/wiki/Precision_agriculture">Agriculture</a></li>
+<li><a title="Computational anatomy" href="https://en.wikipedia.org/wiki/Computational_anatomy">Anatomy</a></li>
+<li><a title="Adaptive website" href="https://en.wikipedia.org/wiki/Adaptive_website">Adaptive websites</a></li>
+<li><a title="Affective computing" href="https://en.wikipedia.org/wiki/Affective_computing">Affective computing</a></li>
+<li><a class="mw-redirect" title="Banking" href="https://en.wikipedia.org/wiki/Banking">Banking</a></li>
+<li><a title="Bioinformatics" href="https://en.wikipedia.org/wiki/Bioinformatics">Bioinformatics</a></li>
+<li><a class="mw-redirect" title="Brain&ndash;machine interface" href="https://en.wikipedia.org/wiki/Brain%E2%80%93machine_interface">Brain&ndash;machine interfaces</a></li>
+<li><a title="Cheminformatics" href="https://en.wikipedia.org/wiki/Cheminformatics">Cheminformatics</a></li>
+<li><a title="Citizen science" href="https://en.wikipedia.org/wiki/Citizen_science">Citizen science</a></li>
+<li><a title="Network simulation" href="https://en.wikipedia.org/wiki/Network_simulation">Computer networks</a></li>
+<li><a title="Computer vision" href="https://en.wikipedia.org/wiki/Computer_vision">Computer vision</a></li>
+<li><a class="mw-redirect" title="Credit-card fraud" href="https://en.wikipedia.org/wiki/Credit-card_fraud">Credit-card fraud</a>&nbsp;detection</li>
+<li><a title="Data quality" href="https://en.wikipedia.org/wiki/Data_quality">Data quality</a></li>
+<li><a class="mw-redirect" title="DNA sequence" href="https://en.wikipedia.org/wiki/DNA_sequence">DNA sequence</a>&nbsp;classification</li>
+<li><a title="Computational economics" href="https://en.wikipedia.org/wiki/Computational_economics">Economics</a></li>
+<li><a title="Financial market" href="https://en.wikipedia.org/wiki/Financial_market">Financial market</a>&nbsp;analysis</li>
+<li><a title="General game playing" href="https://en.wikipedia.org/wiki/General_game_playing">General game playing</a></li>
+<li><a title="Handwriting recognition" href="https://en.wikipedia.org/wiki/Handwriting_recognition">Handwriting recognition</a></li>
+<li><a title="Information retrieval" href="https://en.wikipedia.org/wiki/Information_retrieval">Information retrieval</a></li>
+<li><a title="Insurance" href="https://en.wikipedia.org/wiki/Insurance">Insurance</a></li>
+<li><a title="Internet fraud" href="https://en.wikipedia.org/wiki/Internet_fraud">Internet fraud</a>&nbsp;detection</li>
+<li><a title="Computational linguistics" href="https://en.wikipedia.org/wiki/Computational_linguistics">Linguistics</a></li>
+<li><a title="Machine learning control" href="https://en.wikipedia.org/wiki/Machine_learning_control">Machine learning control</a></li>
+<li><a title="Machine perception" href="https://en.wikipedia.org/wiki/Machine_perception">Machine perception</a></li>
+<li><a title="Machine translation" href="https://en.wikipedia.org/wiki/Machine_translation">Machine translation</a></li>
+<li><a title="Marketing" href="https://en.wikipedia.org/wiki/Marketing">Marketing</a></li>
+<li><a class="mw-redirect" title="Automated medical diagnosis" href="https://en.wikipedia.org/wiki/Automated_medical_diagnosis">Medical diagnosis</a></li>
+<li><a title="Natural language processing" href="https://en.wikipedia.org/wiki/Natural_language_processing">Natural language processing</a></li>
+<li><a class="mw-redirect" title="Natural language understanding" href="https://en.wikipedia.org/wiki/Natural_language_understanding">Natural language understanding</a></li>
+<li><a title="Online advertising" href="https://en.wikipedia.org/wiki/Online_advertising">Online advertising</a></li>
+<li><a title="Mathematical optimization" href="https://en.wikipedia.org/wiki/Mathematical_optimization">Optimization</a></li>
+<li><a title="Recommender system" href="https://en.wikipedia.org/wiki/Recommender_system">Recommender systems</a></li>
+<li><a title="Robot locomotion" href="https://en.wikipedia.org/wiki/Robot_locomotion">Robot locomotion</a></li>
+<li><a class="mw-redirect" title="Search engines" href="https://en.wikipedia.org/wiki/Search_engines">Search engines</a></li>
+<li><a title="Sentiment analysis" href="https://en.wikipedia.org/wiki/Sentiment_analysis">Sentiment analysis</a></li>
+<li><a class="mw-redirect" title="Sequence mining" href="https://en.wikipedia.org/wiki/Sequence_mining">Sequence mining</a></li>
+<li><a title="Software engineering" href="https://en.wikipedia.org/wiki/Software_engineering">Software engineering</a></li>
+<li><a title="Speech recognition" href="https://en.wikipedia.org/wiki/Speech_recognition">Speech recognition</a></li>
+<li><a title="Structural health monitoring" href="https://en.wikipedia.org/wiki/Structural_health_monitoring">Structural health monitoring</a></li>
+<li><a title="Syntactic pattern recognition" href="https://en.wikipedia.org/wiki/Syntactic_pattern_recognition">Syntactic pattern recognition</a></li>
+<li><a title="Telecommunication" href="https://en.wikipedia.org/wiki/Telecommunication">Telecommunication</a></li>
+<li><a title="Automated theorem proving" href="https://en.wikipedia.org/wiki/Automated_theorem_proving">Theorem proving</a></li>
+<li><a title="Time series" href="https://en.wikipedia.org/wiki/Time_series">Time series forecasting</a></li>
+<li><a title="User behavior analytics" href="https://en.wikipedia.org/wiki/User_behavior_analytics">User behavior analytics</a></li>
+</ul>
+</div>
+<p>In 2006, the media-services provider&nbsp;<a title="Netflix" href="https://en.wikipedia.org/wiki/Netflix">Netflix</a>&nbsp;held the first "<a title="Netflix Prize" href="https://en.wikipedia.org/wiki/Netflix_Prize">Netflix Prize</a>" competition to find a program to better predict user preferences and improve the accuracy on its existing Cinematch movie recommendation algorithm by at least 10%. A joint team made up of researchers from&nbsp;<a title="AT&amp;T Labs" href="https://en.wikipedia.org/wiki/AT%26T_Labs">AT&amp;T Labs</a>-Research in collaboration with the teams Big Chaos and Pragmatic Theory built an&nbsp;<a class="mw-redirect" title="Ensemble Averaging" href="https://en.wikipedia.org/wiki/Ensemble_Averaging">ensemble model</a>&nbsp;to win the Grand Prize in 2009 for $1&nbsp;million.&nbsp;Shortly after the prize was awarded, Netflix realized that viewers' ratings were not the best indicators of their viewing patterns ("everything is a recommendation") and they changed their recommendation engine accordingly.&nbsp;In 2010 The Wall Street Journal wrote about the firm Rebellion Research and their use of machine learning to predict the financial crisis.&nbsp;In 2012, co-founder of&nbsp;<a title="Sun Microsystems" href="https://en.wikipedia.org/wiki/Sun_Microsystems">Sun Microsystems</a>,&nbsp;<a title="Vinod Khosla" href="https://en.wikipedia.org/wiki/Vinod_Khosla">Vinod Khosla</a>, predicted that 80% of medical doctors' jobs would be lost in the next two decades to automated machine learning medical diagnostic software.&nbsp;In 2014, it was reported that a machine learning algorithm had been applied in the field of art history to study fine art paintings, and that it may have revealed previously unrecognized influences among artists.&nbsp;In 2019&nbsp;<a title="Springer Nature" href="https://en.wikipedia.org/wiki/Springer_Nature">Springer Nature</a>&nbsp;published the first research book created using machine learning.</p>
+<h2><span id="Limitations" class="mw-headline">Limitations</span></h2>
+<p>Although machine learning has been transformative in some fields, machine-learning programs often fail to deliver expected results.&nbsp;Reasons for this are numerous: lack of (suitable) data, lack of access to the data, data bias, privacy problems, badly chosen tasks and algorithms, wrong tools and people, lack of resources, and evaluation problems.</p>
+<p>In 2018, a self-driving car from&nbsp;<a title="Uber" href="https://en.wikipedia.org/wiki/Uber">Uber</a>&nbsp;failed to detect a pedestrian, who was killed after a collision.&nbsp;Attempts to use machine learning in healthcare with the&nbsp;<a title="Watson (computer)" href="https://en.wikipedia.org/wiki/Watson_(computer)">IBM Watson</a>&nbsp;system failed to deliver even after years of time and billions of investment.</p>
+<h3><span id="Bias" class="mw-headline">Bias</span></h3>
+<p>Machine learning approaches in particular can suffer from different data biases. A machine learning system trained on current customers only may not be able to predict the needs of new customer groups that are not represented in the training data. When trained on man-made data, machine learning is likely to pick up the same constitutional and unconscious biases already present in society.&nbsp;Language models learned from data have been shown to contain human-like biases.&nbsp;Machine learning systems used for criminal risk assessment have been found to be biased against black people.&nbsp;In 2015, Google photos would often tag black people as gorillas,&nbsp;and in 2018 this still was not well resolved, but Google reportedly was still using the workaround to remove all gorillas from the training data, and thus was not able to recognize real gorillas at all.&nbsp;Similar issues with recognizing non-white people have been found in many other systems.&nbsp;In 2016, Microsoft tested a&nbsp;<a title="Chatbot" href="https://en.wikipedia.org/wiki/Chatbot">chatbot</a>&nbsp;that learned from Twitter, and it quickly picked up racist and sexist language.&nbsp;Because of such challenges, the effective use of machine learning may take longer to be adopted in other domains.&nbsp;Concern for&nbsp;<a title="Fairness (machine learning)" href="https://en.wikipedia.org/wiki/Fairness_(machine_learning)">fairness</a>&nbsp;in machine learning, that is, reducing bias in machine learning and propelling its use for human good is increasingly expressed by artificial intelligence scientists, including&nbsp;<a title="Fei-Fei Li" href="https://en.wikipedia.org/wiki/Fei-Fei_Li">Fei-Fei Li</a>, who reminds engineers that "There&rsquo;s nothing artificial about AI...It&rsquo;s inspired by people, it&rsquo;s created by people, and&mdash;most importantly&mdash;it impacts people. It is a powerful tool we are only just beginning to understand, and that is a profound responsibility.&rdquo;</p>
+<h2><span id="Model_assessments" class="mw-headline">Model assessments</span></h2>
+<p>Classification machine learning models can be validated by accuracy estimation techniques like the&nbsp;<a class="mw-redirect" title="Test set" href="https://en.wikipedia.org/wiki/Test_set">Holdout</a>&nbsp;method, which splits the data in a training and test set (conventionally 2/3 training set and 1/3 test set designation) and evaluates the performance of the training model on the test set. In comparison, the K-fold-<a title="Cross-validation (statistics)" href="https://en.wikipedia.org/wiki/Cross-validation_(statistics)">cross-validation</a>&nbsp;method randomly partitions the data into K subsets and then K experiments are performed each respectively considering 1 subset for evaluation and the remaining K-1 subsets for training the model. In addition to the holdout and cross-validation methods,&nbsp;<a title="Bootstrapping" href="https://en.wikipedia.org/wiki/Bootstrapping">bootstrap</a>, which samples n instances with replacement from the dataset, can be used to assess model accuracy.</p>
+<p>In addition to overall accuracy, investigators frequently report&nbsp;<a title="Sensitivity and specificity" href="https://en.wikipedia.org/wiki/Sensitivity_and_specificity">sensitivity and specificity</a>&nbsp;meaning True Positive Rate (TPR) and True Negative Rate (TNR) respectively. Similarly, investigators sometimes report the&nbsp;<a class="mw-redirect" title="False Positive Rate" href="https://en.wikipedia.org/wiki/False_Positive_Rate">False Positive Rate</a>&nbsp;(FPR) as well as the&nbsp;<a class="mw-redirect" title="False Negative Rate" href="https://en.wikipedia.org/wiki/False_Negative_Rate">False Negative Rate</a>&nbsp;(FNR). However, these rates are ratios that fail to reveal their numerators and denominators. The&nbsp;<a class="mw-redirect" title="Total Operating Characteristic" href="https://en.wikipedia.org/wiki/Total_Operating_Characteristic">Total Operating Characteristic</a>&nbsp;(TOC) is an effective method to express a model's diagnostic ability. TOC shows the numerators and denominators of the previously mentioned rates, thus TOC provides more information than the commonly used&nbsp;<a class="mw-redirect" title="Receiver Operating Characteristic" href="https://en.wikipedia.org/wiki/Receiver_Operating_Characteristic">Receiver Operating Characteristic</a>&nbsp;(ROC) and ROC's associated Area Under the Curve (AUC).</p>
+<h2><span id="Ethics" class="mw-headline">Ethics</span></h2>
+<p>Machine learning poses a host of&nbsp;<a title="Machine ethics" href="https://en.wikipedia.org/wiki/Machine_ethics">ethical questions</a>. Systems which are trained on datasets collected with biases may exhibit these biases upon use (<a title="Algorithmic bias" href="https://en.wikipedia.org/wiki/Algorithmic_bias">algorithmic bias</a>), thus digitizing cultural prejudices.&nbsp;For example, using job hiring data from a firm with racist hiring policies may lead to a machine learning system duplicating the bias by scoring job applicants against similarity to previous successful applicants.&nbsp;Responsible&nbsp;<a title="Data collection" href="https://en.wikipedia.org/wiki/Data_collection">collection of data</a>&nbsp;and documentation of algorithmic rules used by a system thus is a critical part of machine learning.</p>
+<p>Because human languages contain biases, machines trained on language&nbsp;<em><a title="Text corpus" href="https://en.wikipedia.org/wiki/Text_corpus">corpora</a></em>&nbsp;will necessarily also learn these biases.</p>
+<p>Other forms of ethical challenges, not related to personal biases, are more seen in health care. There are concerns among health care professionals that these systems might not be designed in the public's interest but as income-generating machines. This is especially true in the United States where there is a long-standing ethical dilemma of improving health care, but also increasing profits. For example, the algorithms could be designed to provide patients with unnecessary tests or medication in which the algorithm's proprietary owners hold stakes. There is huge potential for machine learning in health care to provide professionals a great tool to diagnose, medicate, and even plan recovery paths for patients, but this will not happen until the personal biases mentioned previously, and these "greed" biases are addressed.</p>
+<h2><span id="Software" class="mw-headline">Software</span></h2>
+<p><a title="Software suite" href="https://en.wikipedia.org/wiki/Software_suite">Software suites</a>&nbsp;containing a variety of machine learning algorithms include the following:</p>
+<h3><span id="Free_and_open-source_software" class="mw-headline">Free and open-source software</span></h3>
+<div class="div-col columns column-width">
+<ul>
+<li><a title="Microsoft Cognitive Toolkit" href="https://en.wikipedia.org/wiki/Microsoft_Cognitive_Toolkit">CNTK</a></li>
+<li><a title="Deeplearning4j" href="https://en.wikipedia.org/wiki/Deeplearning4j">Deeplearning4j</a></li>
+<li><a title="ELKI" href="https://en.wikipedia.org/wiki/ELKI">ELKI</a></li>
+<li><a title="Keras" href="https://en.wikipedia.org/wiki/Keras">Keras</a></li>
+<li><a title="Caffe (software)" href="https://en.wikipedia.org/wiki/Caffe_(software)">Caffe</a></li>
+<li><a title="ML.NET" href="https://en.wikipedia.org/wiki/ML.NET">ML.NET</a></li>
+<li><a title="Apache Mahout" href="https://en.wikipedia.org/wiki/Apache_Mahout">Mahout</a></li>
+<li><a title="Mallet (software project)" href="https://en.wikipedia.org/wiki/Mallet_(software_project)">Mallet</a></li>
+<li><a title="Mlpack" href="https://en.wikipedia.org/wiki/Mlpack">mlpack</a></li>
+<li><a class="mw-redirect" title="MXNet" href="https://en.wikipedia.org/wiki/MXNet">MXNet</a></li>
+<li><a title="Neural Lab" href="https://en.wikipedia.org/wiki/Neural_Lab">Neural Lab</a></li>
+<li><a title="GNU Octave" href="https://en.wikipedia.org/wiki/GNU_Octave">GNU Octave</a></li>
+<li><a title="OpenNN" href="https://en.wikipedia.org/wiki/OpenNN">OpenNN</a></li>
+<li><a title="Orange (software)" href="https://en.wikipedia.org/wiki/Orange_(software)">Orange</a></li>
+<li><a title="Perl Data Language" href="https://en.wikipedia.org/wiki/Perl_Data_Language">Perl Data Language</a></li>
+<li><a title="Scikit-learn" href="https://en.wikipedia.org/wiki/Scikit-learn">scikit-learn</a></li>
+<li><a title="Shogun (toolbox)" href="https://en.wikipedia.org/wiki/Shogun_(toolbox)">Shogun</a></li>
+<li><a title="Apache Spark" href="https://en.wikipedia.org/wiki/Apache_Spark#MLlib_Machine_Learning_Library">Spark MLlib</a></li>
+<li><a title="Apache SystemML" href="https://en.wikipedia.org/wiki/Apache_SystemML">Apache SystemML</a></li>
+<li><a title="TensorFlow" href="https://en.wikipedia.org/wiki/TensorFlow">TensorFlow</a></li>
+<li><a title="ROOT" href="https://en.wikipedia.org/wiki/ROOT">ROOT</a>&nbsp;(TMVA with ROOT)</li>
+<li><a title="Torch (machine learning)" href="https://en.wikipedia.org/wiki/Torch_(machine_learning)">Torch</a>&nbsp;/&nbsp;<a title="PyTorch" href="https://en.wikipedia.org/wiki/PyTorch">PyTorch</a></li>
+<li><a title="Weka (machine learning)" href="https://en.wikipedia.org/wiki/Weka_(machine_learning)">Weka</a>&nbsp;/&nbsp;<a class="mw-redirect" title="MOA (Massive Online Analysis)" href="https://en.wikipedia.org/wiki/MOA_(Massive_Online_Analysis)">MOA</a></li>
+<li><a title="Yooreeka" href="https://en.wikipedia.org/wiki/Yooreeka">Yooreeka</a></li>
+<li><a title="R (programming language)" href="https://en.wikipedia.org/wiki/R_(programming_language)">R</a></li>
+</ul>
+</div>
+<h3><span id="Proprietary_software_with_free_and_open-source_editions" class="mw-headline">Proprietary software with free and open-source editions</span></h3>
+<div class="div-col columns column-width">
+<ul>
+<li><a title="KNIME" href="https://en.wikipedia.org/wiki/KNIME">KNIME</a></li>
+<li><a title="RapidMiner" href="https://en.wikipedia.org/wiki/RapidMiner">RapidMiner</a></li>
+</ul>
+</div>
+<h3><span id="Proprietary_software" class="mw-headline">Proprietary software</span></h3>
+<div class="div-col columns column-width">
+<ul>
+<li><a class="mw-redirect" title="Amazon Machine Learning" href="https://en.wikipedia.org/wiki/Amazon_Machine_Learning">Amazon Machine Learning</a></li>
+<li><a title="Angoss" href="https://en.wikipedia.org/wiki/Angoss">Angoss</a>&nbsp;KnowledgeSTUDIO</li>
+<li><a class="mw-redirect" title="Azure Machine Learning" href="https://en.wikipedia.org/wiki/Azure_Machine_Learning">Azure Machine Learning</a></li>
+<li><a title="Ayasdi" href="https://en.wikipedia.org/wiki/Ayasdi">Ayasdi</a></li>
+<li><a title="IBM Data Science Experience" href="https://en.wikipedia.org/wiki/IBM_Data_Science_Experience">IBM Data Science Experience</a></li>
+<li><a title="Google APIs" href="https://en.wikipedia.org/wiki/Google_APIs">Google Prediction API</a></li>
+<li><a title="SPSS Modeler" href="https://en.wikipedia.org/wiki/SPSS_Modeler">IBM SPSS Modeler</a></li>
+<li><a title="KXEN Inc." href="https://en.wikipedia.org/wiki/KXEN_Inc.">KXEN Modeler</a></li>
+<li><a title="LIONsolver" href="https://en.wikipedia.org/wiki/LIONsolver">LIONsolver</a></li>
+<li><a class="mw-redirect" title="Mathematica" href="https://en.wikipedia.org/wiki/Mathematica">Mathematica</a></li>
+<li><a title="MATLAB" href="https://en.wikipedia.org/wiki/MATLAB">MATLAB</a></li>
+<li><a title="Microsoft Azure" href="https://en.wikipedia.org/wiki/Microsoft_Azure">Microsoft Azure</a></li>
+<li><a title="Neural Designer" href="https://en.wikipedia.org/wiki/Neural_Designer">Neural Designer</a></li>
+<li><a title="NeuroSolutions" href="https://en.wikipedia.org/wiki/NeuroSolutions">NeuroSolutions</a></li>
+<li><a title="Oracle Data Mining" href="https://en.wikipedia.org/wiki/Oracle_Data_Mining">Oracle Data Mining</a></li>
+<li><a title="Oracle Cloud" href="https://en.wikipedia.org/wiki/Oracle_Cloud#Platform_as_a_Service_(PaaS)">Oracle AI Platform Cloud Service</a></li>
+<li><a title="RCASE" href="https://en.wikipedia.org/wiki/RCASE">RCASE</a></li>
+<li><a title="SAS (software)" href="https://en.wikipedia.org/wiki/SAS_(software)#Components">SAS Enterprise Miner</a></li>
+<li><a title="SequenceL" href="https://en.wikipedia.org/wiki/SequenceL">SequenceL</a></li>
+<li><a title="Splunk" href="https://en.wikipedia.org/wiki/Splunk">Splunk</a></li>
+<li><a class="mw-redirect" title="STATISTICA" href="https://en.wikipedia.org/wiki/STATISTICA">STATISTICA</a>&nbsp;Data Miner</li>
+</ul>
+</div>
+<h2><span id="Journals" class="mw-headline">Journals</span></h2>
+<ul>
+<li><em><a title="Journal of Machine Learning Research" href="https://en.wikipedia.org/wiki/Journal_of_Machine_Learning_Research">Journal of Machine Learning Research</a></em></li>
+<li><a title="Machine Learning (journal)" href="https://en.wikipedia.org/wiki/Machine_Learning_(journal)"><em>Machine Learning</em></a></li>
+<li><em><a title="Nature Machine Intelligence" href="https://en.wikipedia.org/wiki/Nature_Machine_Intelligence">Nature Machine Intelligence</a></em></li>
+<li><a title="Neural Computation (journal)" href="https://en.wikipedia.org/wiki/Neural_Computation_(journal)"><em>Neural Computation</em></a></li>
+</ul>
+<h2><span id="Conferences" class="mw-headline">Conferences</span></h2>
+<ul>
+<li><a title="Conference on Neural Information Processing Systems" href="https://en.wikipedia.org/wiki/Conference_on_Neural_Information_Processing_Systems">Conference on Neural Information Processing Systems</a></li>
+<li><a title="International Conference on Machine Learning" href="https://en.wikipedia.org/wiki/International_Conference_on_Machine_Learning">International Conference on Machine Learning</a></li>
+</ul>
