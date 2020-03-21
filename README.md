@@ -265,6 +265,240 @@
 
 </br>
 
+<h2>Timeline of machine learning</h2>
+<table class="wikitable sortable jquery-tablesorter">
+<thead>
+<tr style="height: 13px;">
+<th class="headerSort" style="height: 13px;" tabindex="0" title="Sort ascending">Year</th>
+<th class="headerSort" style="height: 13px;" tabindex="0" title="Sort ascending">Event type</th>
+<th class="headerSort" style="height: 13px;" tabindex="0" title="Sort ascending">Caption</th>
+<th class="headerSort" style="height: 13px;" tabindex="0" title="Sort ascending">Event</th>
+</tr>
+</thead>
+<tbody>
+<tr style="height: 26px;">
+<td style="height: 26px;">1763</td>
+<td style="height: 26px;">Discovery</td>
+<td style="height: 26px;">The Underpinnings of&nbsp;<a title="Bayes' theorem" href="https://en.wikipedia.org/wiki/Bayes%27_theorem">Bayes' Theorem</a></td>
+<td style="height: 26px;"><a title="Thomas Bayes" href="https://en.wikipedia.org/wiki/Thomas_Bayes">Thomas Bayes</a>'s work&nbsp;<em><a title="An Essay towards solving a Problem in the Doctrine of Chances" href="https://en.wikipedia.org/wiki/An_Essay_towards_solving_a_Problem_in_the_Doctrine_of_Chances">An Essay towards solving a Problem in the Doctrine of Chances</a></em>&nbsp;is published two years after his death, having been amended and edited by a friend of Bayes,&nbsp;<a title="Richard Price" href="https://en.wikipedia.org/wiki/Richard_Price">Richard Price</a>.&nbsp;The essay presents work which underpins&nbsp;<a class="mw-redirect" title="Bayes theorem" href="https://en.wikipedia.org/wiki/Bayes_theorem">Bayes theorem</a>.</td>
+</tr>
+<tr style="height: 26px;">
+<td style="height: 26px;">1805</td>
+<td style="height: 26px;">Discovery</td>
+<td style="height: 26px;">Least Square</td>
+<td style="height: 26px;"><a title="Adrien-Marie Legendre" href="https://en.wikipedia.org/wiki/Adrien-Marie_Legendre">Adrien-Marie Legendre</a>&nbsp;describes the "m&eacute;thode des moindres carr&eacute;s", known in English as the&nbsp;<a title="Least squares" href="https://en.wikipedia.org/wiki/Least_squares">least squares</a>&nbsp;method.&nbsp;The least squares method is used widely in&nbsp;<a class="mw-redirect" title="Data fitting" href="https://en.wikipedia.org/wiki/Data_fitting">data fitting</a>.</td>
+</tr>
+<tr style="height: 26px;">
+<td style="height: 26px;">1812</td>
+<td style="height: 26px;">&nbsp;</td>
+<td style="height: 26px;"><a title="Bayes' theorem" href="https://en.wikipedia.org/wiki/Bayes%27_theorem">Bayes' Theorem</a></td>
+<td style="height: 26px;"><a title="Pierre-Simon Laplace" href="https://en.wikipedia.org/wiki/Pierre-Simon_Laplace">Pierre-Simon Laplace</a>&nbsp;publishes&nbsp;<em>Th&eacute;orie Analytique des Probabilit&eacute;s</em>, in which he expands upon the work of Bayes and defines what is now known as&nbsp;<a class="mw-redirect" title="Bayes' Theorem" href="https://en.wikipedia.org/wiki/Bayes%27_Theorem">Bayes' Theorem</a>.</td>
+</tr>
+<tr style="height: 13px;">
+<td style="height: 13px;">1913</td>
+<td style="height: 13px;">Discovery</td>
+<td style="height: 13px;">Markov Chains</td>
+<td style="height: 13px;"><a title="Andrey Markov" href="https://en.wikipedia.org/wiki/Andrey_Markov">Andrey Markov</a>&nbsp;first describes techniques he used to analyse a poem. The techniques later become known as&nbsp;<a class="mw-redirect" title="Markov chains" href="https://en.wikipedia.org/wiki/Markov_chains">Markov chains</a>.</td>
+</tr>
+<tr style="height: 26px;">
+<td style="height: 26px;">1950</td>
+<td style="height: 26px;">&nbsp;</td>
+<td style="height: 26px;">Turing's Learning Machine</td>
+<td style="height: 26px;"><a title="Alan Turing" href="https://en.wikipedia.org/wiki/Alan_Turing">Alan Turing</a>&nbsp;proposes a 'learning machine' that could learn and become artificially intelligent. Turing's specific proposal foreshadows&nbsp;<a class="mw-redirect" title="Genetic algorithms" href="https://en.wikipedia.org/wiki/Genetic_algorithms">genetic algorithms</a>.</td>
+</tr>
+<tr style="height: 26px;">
+<td style="height: 26px;">1951</td>
+<td style="height: 26px;">&nbsp;</td>
+<td style="height: 26px;">First Neural Network Machine</td>
+<td style="height: 26px;"><a title="Marvin Minsky" href="https://en.wikipedia.org/wiki/Marvin_Minsky">Marvin Minsky</a>&nbsp;and Dean Edmonds build the first neural network machine, able to learn, the&nbsp;<a title="Stochastic neural analog reinforcement calculator" href="https://en.wikipedia.org/wiki/Stochastic_neural_analog_reinforcement_calculator">SNARC</a>.</td>
+</tr>
+<tr style="height: 26px;">
+<td style="height: 26px;">1952</td>
+<td style="height: 26px;">&nbsp;</td>
+<td style="height: 26px;">Machines Playing Checkers</td>
+<td style="height: 26px;"><a title="Arthur Samuel" href="https://en.wikipedia.org/wiki/Arthur_Samuel">Arthur Samuel</a>&nbsp;joins IBM's Poughkeepsie Laboratory and begins working on some of the very first machine learning programs, first creating programs that play&nbsp;<a class="mw-redirect" title="Checkers" href="https://en.wikipedia.org/wiki/Checkers">checkers</a>.</td>
+</tr>
+<tr style="height: 30.6875px;">
+<td style="height: 30.6875px;">1957</td>
+<td style="height: 30.6875px;">Discovery</td>
+<td style="height: 30.6875px;">Perceptron</td>
+<td style="height: 30.6875px;"><a title="Frank Rosenblatt" href="https://en.wikipedia.org/wiki/Frank_Rosenblatt">Frank Rosenblatt</a>&nbsp;invents the&nbsp;<a title="Perceptron" href="https://en.wikipedia.org/wiki/Perceptron">perceptron</a>&nbsp;while working at the&nbsp;<a class="mw-redirect" title="Cornell Aeronautical Laboratory" href="https://en.wikipedia.org/wiki/Cornell_Aeronautical_Laboratory">Cornell Aeronautical Laboratory</a>.&nbsp;The invention of the perceptron generated a great deal of excitement and was widely covered in the media.</td>
+</tr>
+<tr style="height: 28px;">
+<td style="height: 28px;">1963</td>
+<td style="height: 28px;">Achievement</td>
+<td style="height: 28px;">Machines Playing Tic-Tac-Toe</td>
+<td style="height: 28px;"><a title="Donald Michie" href="https://en.wikipedia.org/wiki/Donald_Michie">Donald Michie</a>&nbsp;creates a 'machine' consisting of 304 match boxes and beads, which uses&nbsp;<a title="Reinforcement learning" href="https://en.wikipedia.org/wiki/Reinforcement_learning">reinforcement learning</a>&nbsp;to play&nbsp;<a title="Tic-tac-toe" href="https://en.wikipedia.org/wiki/Tic-tac-toe">Tic-tac-toe</a>&nbsp;(also known as noughts and crosses).</td>
+</tr>
+<tr style="height: 28px;">
+<td style="height: 28px;">1967</td>
+<td style="height: 28px;">&nbsp;</td>
+<td style="height: 28px;">Nearest Neighbor</td>
+<td style="height: 28px;">The nearest neighbor algorithm was created, which is the start of basic pattern recognition. The algorithm was used to map routes.</td>
+</tr>
+<tr style="height: 41px;">
+<td style="height: 41px;">1969</td>
+<td style="height: 41px;">&nbsp;</td>
+<td style="height: 41px;">Limitations of Neural Networks</td>
+<td style="height: 41px;"><a title="Marvin Minsky" href="https://en.wikipedia.org/wiki/Marvin_Minsky">Marvin Minsky</a>&nbsp;and&nbsp;<a title="Seymour Papert" href="https://en.wikipedia.org/wiki/Seymour_Papert">Seymour Papert</a>&nbsp;publish their book&nbsp;<em><a title="Perceptrons (book)" href="https://en.wikipedia.org/wiki/Perceptrons_(book)">Perceptrons</a></em>, describing some of the limitations of perceptrons and neural networks. The interpretation that the book shows that neural networks are fundamentally limited is seen as a hindrance for research into neural networks.</td>
+</tr>
+<tr style="height: 43px;">
+<td style="height: 43px;">1970</td>
+<td style="height: 43px;">&nbsp;</td>
+<td style="height: 43px;">Automatic Differentiation (Backpropagation)</td>
+<td style="height: 43px;"><a title="Seppo Linnainmaa" href="https://en.wikipedia.org/wiki/Seppo_Linnainmaa">Seppo Linnainmaa</a>&nbsp;publishes the general method for automatic differentiation (AD) of discrete connected networks of nested differentiable functions.&nbsp;This corresponds to the modern version of backpropagation, but is not yet named as such.</td>
+</tr>
+<tr style="height: 15px;">
+<td style="height: 15px;">1979</td>
+<td style="height: 15px;">&nbsp;</td>
+<td style="height: 15px;">Stanford Cart</td>
+<td style="height: 15px;">Students at Stanford University develop a cart that can navigate and avoid obstacles in a room.</td>
+</tr>
+<tr style="height: 30px;">
+<td style="height: 30px;">1979</td>
+<td style="height: 30px;">Discovery</td>
+<td style="height: 30px;">Neocognitron</td>
+<td style="height: 30px;"><a title="Kunihiko Fukushima" href="https://en.wikipedia.org/wiki/Kunihiko_Fukushima">Kunihiko Fukushima</a>&nbsp;first publishes his work on the&nbsp;<a title="Neocognitron" href="https://en.wikipedia.org/wiki/Neocognitron">neocognitron</a>, a type of&nbsp;<a title="Artificial neural network" href="https://en.wikipedia.org/wiki/Artificial_neural_network">artificial neural network</a>&nbsp;(ANN).&nbsp;<a title="Neocognitron" href="https://en.wikipedia.org/wiki/Neocognitron">Neocognition</a>&nbsp;later inspires&nbsp;<a title="Convolutional neural network" href="https://en.wikipedia.org/wiki/Convolutional_neural_network">convolutional neural networks</a>&nbsp;(CNNs).</td>
+</tr>
+<tr style="height: 28px;">
+<td style="height: 28px;">1981</td>
+<td style="height: 28px;">&nbsp;</td>
+<td style="height: 28px;">Explanation Based Learning</td>
+<td style="height: 28px;">Gerald Dejong introduces Explanation Based Learning, where a computer algorithm analyses data and creates a general rule it can follow and discard unimportant data.</td>
+</tr>
+<tr style="height: 28px;">
+<td style="height: 28px;">1982</td>
+<td style="height: 28px;">Discovery</td>
+<td style="height: 28px;">Recurrent Neural Network</td>
+<td style="height: 28px;"><a title="John Hopfield" href="https://en.wikipedia.org/wiki/John_Hopfield">John Hopfield</a>&nbsp;popularizes&nbsp;<a class="mw-redirect" title="Hopfield networks" href="https://en.wikipedia.org/wiki/Hopfield_networks">Hopfield networks</a>, a type of&nbsp;<a title="Recurrent neural network" href="https://en.wikipedia.org/wiki/Recurrent_neural_network">recurrent neural network</a>&nbsp;that can serve as&nbsp;<a title="Content-addressable memory" href="https://en.wikipedia.org/wiki/Content-addressable_memory">content-addressable memory</a>&nbsp;systems.</td>
+</tr>
+<tr style="height: 15px;">
+<td style="height: 15px;">1985</td>
+<td style="height: 15px;">&nbsp;</td>
+<td style="height: 15px;">NetTalk</td>
+<td style="height: 15px;">A program that learns to pronounce words the same way a baby does, is developed by Terry Sejnowski.</td>
+</tr>
+<tr style="height: 28px;">
+<td style="height: 28px;">1986</td>
+<td style="height: 28px;">Application</td>
+<td style="height: 28px;">Backpropagation</td>
+<td style="height: 28px;"><a title="Seppo Linnainmaa" href="https://en.wikipedia.org/wiki/Seppo_Linnainmaa">Seppo Linnainmaa</a>'s reverse mode of&nbsp;<a title="Automatic differentiation" href="https://en.wikipedia.org/wiki/Automatic_differentiation">automatic differentiation</a>&nbsp;(first applied to neural networks by&nbsp;<a title="Paul Werbos" href="https://en.wikipedia.org/wiki/Paul_Werbos">Paul Werbos</a>) is used in experiments by&nbsp;<a title="David Rumelhart" href="https://en.wikipedia.org/wiki/David_Rumelhart">David Rumelhart</a>,&nbsp;<a class="mw-redirect" title="Geoff Hinton" href="https://en.wikipedia.org/wiki/Geoff_Hinton">Geoff Hinton</a>&nbsp;and&nbsp;<a title="Ronald J. Williams" href="https://en.wikipedia.org/wiki/Ronald_J._Williams">Ronald J. Williams</a>&nbsp;to learn&nbsp;<a class="mw-redirect" title="Knowledge representation" href="https://en.wikipedia.org/wiki/Knowledge_representation">internal representations</a>.</td>
+</tr>
+<tr style="height: 15px;">
+<td style="height: 15px;">1989</td>
+<td style="height: 15px;">Discovery</td>
+<td style="height: 15px;">Reinforcement Learning</td>
+<td style="height: 15px;">Christopher Watkins develops&nbsp;<a title="Q-learning" href="https://en.wikipedia.org/wiki/Q-learning">Q-learning</a>, which greatly improves the practicality and feasibility of&nbsp;<a title="Reinforcement learning" href="https://en.wikipedia.org/wiki/Reinforcement_learning">reinforcement learning</a>.</td>
+</tr>
+<tr style="height: 39px;">
+<td style="height: 39px;">1989</td>
+<td style="height: 39px;">Commercialization</td>
+<td style="height: 39px;">Commercialization of Machine Learning on Personal Computers</td>
+<td style="height: 39px;">Axcelis, Inc. releases&nbsp;<a title="Evolver (software)" href="https://en.wikipedia.org/wiki/Evolver_(software)">Evolver</a>, the first software package to commercialize the use of genetic algorithms on personal computers.</td>
+</tr>
+<tr style="height: 41px;">
+<td style="height: 41px;">1992</td>
+<td style="height: 41px;">Achievement</td>
+<td style="height: 41px;">Machines Playing Backgammon</td>
+<td style="height: 41px;">Gerald Tesauro develops&nbsp;<a title="TD-Gammon" href="https://en.wikipedia.org/wiki/TD-Gammon">TD-Gammon</a>, a computer&nbsp;<a title="Backgammon" href="https://en.wikipedia.org/wiki/Backgammon">backgammon</a>&nbsp;program that uses an&nbsp;<a title="Artificial neural network" href="https://en.wikipedia.org/wiki/Artificial_neural_network">artificial neural network</a>&nbsp;trained using&nbsp;<a class="mw-redirect" title="Temporal-difference learning" href="https://en.wikipedia.org/wiki/Temporal-difference_learning">temporal-difference learning</a>&nbsp;(hence the 'TD' in the name). TD-Gammon is able to rival, but not consistently surpass, the abilities of top human backgammon players.</td>
+</tr>
+<tr style="height: 15px;">
+<td style="height: 15px;">1995</td>
+<td style="height: 15px;">Discovery</td>
+<td style="height: 15px;">Random Forest Algorithm</td>
+<td style="height: 15px;">Tin Kam Ho publishes a paper describing&nbsp;<a title="Random forest" href="https://en.wikipedia.org/wiki/Random_forest">random decision forests</a>.</td>
+</tr>
+<tr style="height: 15px;">
+<td style="height: 15px;">1995</td>
+<td style="height: 15px;">Discovery</td>
+<td style="height: 15px;">Support Vector Machines</td>
+<td style="height: 15px;"><a title="Corinna Cortes" href="https://en.wikipedia.org/wiki/Corinna_Cortes">Corinna Cortes</a>&nbsp;and&nbsp;<a title="Vladimir Vapnik" href="https://en.wikipedia.org/wiki/Vladimir_Vapnik">Vladimir Vapnik</a>&nbsp;publish their work on&nbsp;<a class="mw-redirect" title="Support vector machines" href="https://en.wikipedia.org/wiki/Support_vector_machines">support vector machines</a>.</td>
+</tr>
+<tr style="height: 26px;">
+<td style="height: 26px;">1997</td>
+<td style="height: 26px;">Achievement</td>
+<td style="height: 26px;">IBM Deep Blue Beats Kasparov</td>
+<td style="height: 26px;">IBM's&nbsp;<a title="Deep Blue (chess computer)" href="https://en.wikipedia.org/wiki/Deep_Blue_(chess_computer)">Deep Blue</a>&nbsp;beats the world champion at chess.</td>
+</tr>
+<tr style="height: 28px;">
+<td style="height: 28px;">1997</td>
+<td style="height: 28px;">Discovery</td>
+<td style="height: 28px;">LSTM</td>
+<td style="height: 28px;"><a title="Sepp Hochreiter" href="https://en.wikipedia.org/wiki/Sepp_Hochreiter">Sepp Hochreiter</a>&nbsp;and&nbsp;<a title="J&uuml;rgen Schmidhuber" href="https://en.wikipedia.org/wiki/J%C3%BCrgen_Schmidhuber">J&uuml;rgen Schmidhuber</a>&nbsp;invent&nbsp;<a title="Long short-term memory" href="https://en.wikipedia.org/wiki/Long_short-term_memory">long short-term memory</a>&nbsp;(LSTM) recurrent neural networks,&nbsp;greatly improving the efficiency and practicality of recurrent neural networks.</td>
+</tr>
+<tr style="height: 41px;">
+<td style="height: 41px;">1998</td>
+<td style="height: 41px;">&nbsp;</td>
+<td style="height: 41px;">MNIST database</td>
+<td style="height: 41px;">A team led by&nbsp;<a title="Yann LeCun" href="https://en.wikipedia.org/wiki/Yann_LeCun">Yann LeCun</a>&nbsp;releases the&nbsp;<a title="MNIST database" href="https://en.wikipedia.org/wiki/MNIST_database">MNIST database</a>, a dataset comprising a mix of handwritten digits from&nbsp;<a class="mw-redirect" title="American Census Bureau" href="https://en.wikipedia.org/wiki/American_Census_Bureau">American Census Bureau</a>&nbsp;employees and American high school students.&nbsp;The MNIST database has since become a benchmark for evaluating handwriting recognition.</td>
+</tr>
+<tr style="height: 26px;">
+<td style="height: 26px;">2002</td>
+<td style="height: 26px;">&nbsp;</td>
+<td style="height: 26px;">Torch Machine Learning Library</td>
+<td style="height: 26px;"><a title="Torch (machine learning)" href="https://en.wikipedia.org/wiki/Torch_(machine_learning)">Torch</a>, a software library for machine learning, is first released.</td>
+</tr>
+<tr style="height: 41px;">
+<td style="height: 41px;">2006</td>
+<td style="height: 41px;">&nbsp;</td>
+<td style="height: 41px;">The Netflix Prize</td>
+<td style="height: 41px;">The&nbsp;<a title="Netflix Prize" href="https://en.wikipedia.org/wiki/Netflix_Prize">Netflix Prize</a>&nbsp;competition is launched by&nbsp;<a title="Netflix" href="https://en.wikipedia.org/wiki/Netflix">Netflix</a>. The aim of the competition was to use machine learning to beat Netflix's own recommendation software's accuracy in predicting a user's rating for a film given their ratings for previous films by at least 10%.&nbsp;The prize was won in 2009.</td>
+</tr>
+<tr style="height: 43px;">
+<td style="height: 43px;">2009</td>
+<td style="height: 43px;">Achievement</td>
+<td style="height: 43px;">ImageNet</td>
+<td style="height: 43px;"><a title="ImageNet" href="https://en.wikipedia.org/wiki/ImageNet">ImageNet</a>&nbsp;is created. ImageNet is a large visual database envisioned by&nbsp;<a title="Fei-Fei Li" href="https://en.wikipedia.org/wiki/Fei-Fei_Li">Fei-Fei Li</a>&nbsp;from Stanford University, who realized that the best machine learning algorithms wouldn't work well if the data didn't reflect the real world.&nbsp;For many, ImageNet was the catalyst for the AI boom&nbsp;of the 21st century.</td>
+</tr>
+<tr style="height: 15px;">
+<td style="height: 15px;">2010</td>
+<td style="height: 15px;">&nbsp;</td>
+<td style="height: 15px;">Kaggle Competition</td>
+<td style="height: 15px;"><a title="Kaggle" href="https://en.wikipedia.org/wiki/Kaggle">Kaggle</a>, a website that serves as a platform for machine learning competitions, is launched.</td>
+</tr>
+<tr style="height: 39px;">
+<td style="height: 39px;">2010</td>
+<td style="height: 39px;">&nbsp;</td>
+<td style="height: 39px;">Wall Street Journal Profiles Machine Learning Investing</td>
+<td style="height: 39px;">The WSJ Profiles new wave of investing and focuses on RebellionResearch.com which would be the subject of author Scott Patterson's Novel, Dark Pools.</td>
+</tr>
+<tr style="height: 28px;">
+<td style="height: 28px;">2011</td>
+<td style="height: 28px;">Achievement</td>
+<td style="height: 28px;">Beating Humans in Jeopardy</td>
+<td style="height: 28px;">Using a combination of machine learning,&nbsp;<a title="Natural language processing" href="https://en.wikipedia.org/wiki/Natural_language_processing">natural language processing</a>&nbsp;and information retrieval techniques,&nbsp;<a title="IBM" href="https://en.wikipedia.org/wiki/IBM">IBM</a>'s&nbsp;<a title="Watson (computer)" href="https://en.wikipedia.org/wiki/Watson_(computer)">Watson</a>&nbsp;beats two human champions in a&nbsp;<a title="Jeopardy!" href="https://en.wikipedia.org/wiki/Jeopardy!">Jeopardy!</a>&nbsp;competition.</td>
+</tr>
+<tr style="height: 28px;">
+<td style="height: 28px;">2012</td>
+<td style="height: 28px;">Achievement</td>
+<td style="height: 28px;">Recognizing Cats on YouTube</td>
+<td style="height: 28px;">The&nbsp;<a title="Google Brain" href="https://en.wikipedia.org/wiki/Google_Brain">Google Brain</a>&nbsp;team, led by&nbsp;<a title="Andrew Ng" href="https://en.wikipedia.org/wiki/Andrew_Ng">Andrew Ng</a>&nbsp;and&nbsp;<a title="Jeff Dean (computer scientist)" href="https://en.wikipedia.org/wiki/Jeff_Dean_(computer_scientist)">Jeff Dean</a>, create a neural network that learns to recognize cats by watching unlabeled images taken from frames of&nbsp;<a title="YouTube" href="https://en.wikipedia.org/wiki/YouTube">YouTube</a>&nbsp;videos.</td>
+</tr>
+<tr style="height: 28px;">
+<td style="height: 28px;">2014</td>
+<td style="height: 28px;">&nbsp;</td>
+<td style="height: 28px;">Leap in Face Recognition</td>
+<td style="height: 28px;"><a title="Facebook" href="https://en.wikipedia.org/wiki/Facebook">Facebook</a>&nbsp;researchers publish their work on&nbsp;<a title="DeepFace" href="https://en.wikipedia.org/wiki/DeepFace">DeepFace</a>, a system that uses neural networks that identifies faces with 97.35% accuracy. The results are an improvement of more than 27% over previous systems and rivals human performance.</td>
+</tr>
+<tr style="height: 30px;">
+<td style="height: 30px;">2014</td>
+<td style="height: 30px;">&nbsp;</td>
+<td style="height: 30px;">Sibyl</td>
+<td style="height: 30px;">Researchers from&nbsp;<a title="Google" href="https://en.wikipedia.org/wiki/Google">Google</a>&nbsp;detail their work on Sibyl,&nbsp;a proprietary platform for massively parallel machine learning used internally by Google to make predictions about user behavior and provide recommendations.</td>
+</tr>
+<tr style="height: 41px;">
+<td style="height: 41px;">2016</td>
+<td style="height: 41px;">Achievement</td>
+<td style="height: 41px;">Beating Humans in Go</td>
+<td style="height: 41px;">Google's&nbsp;<a title="AlphaGo" href="https://en.wikipedia.org/wiki/AlphaGo">AlphaGo</a>&nbsp;program becomes the first&nbsp;<a title="Computer Go" href="https://en.wikipedia.org/wiki/Computer_Go">Computer Go</a>&nbsp;program to beat an unhandicapped professional human player&nbsp;using a combination of machine learning and tree search techniques.&nbsp;Later improved as&nbsp;<a title="AlphaGo Zero" href="https://en.wikipedia.org/wiki/AlphaGo_Zero">AlphaGo Zero</a>&nbsp;and then in 2017 generalized to Chess and more two-player games with&nbsp;<a title="AlphaZero" href="https://en.wikipedia.org/wiki/AlphaZero">AlphaZero</a>.</td>
+</tr>
+</tbody>
+</table>
+
+</br>
+
+
+
 <div class="toctitle" dir="ltr" lang="en">
 <h2 id="mw-toc-heading">Contents</h2>
 <label class="toctogglelabel" for="toctogglecheckbox"></label></div>
