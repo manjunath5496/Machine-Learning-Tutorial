@@ -729,8 +729,34 @@ A simple Bayesian network. Rain influences whether the sprinkler is activated, a
 
 
 
+<li><a target="_blank" href="https://github.com/manjunath5496/Machine-Learning-Tutorial/blob/master/mac(72).pdf" style="text-decoration:none;">Basics of Linear Algebra for Machine Learning: Discover the Mathematical Language of Data in Python</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Machine-Learning-Tutorial/blob/master/mac(73).pdf" style="text-decoration:none;">Bayesian Reasoning and Machine Learning</a></li>
 
+<li><a target="_blank" href="https://github.com/manjunath5496/Machine-Learning-Tutorial/blob/master/mac(74).pdf" style="text-decoration:none;">Deep Thinking: Where Machine Intelligence Ends and Human Creativity Begins</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Machine-Learning-Tutorial/blob/master/mac(75).pdf" style="text-decoration:none;">Learning to Love Data Science: Explorations of Emerging Technologies and Platforms for Predictive Analytics,
+Machine Learning, Digital Manufacturing, and Supply Chain Optimization</a></li>
 
+<li><a target="_blank" href="https://github.com/manjunath5496/Machine-Learning-Tutorial/blob/master/mac(76).pdf" style="text-decoration:none;">Machine Learning and Security</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Machine-Learning-Tutorial/blob/master/mac(77).pdf" style="text-decoration:none;">Make Money On The Internet: How To Turn Your Website Into A Cash-Making Machine</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Machine-Learning-Tutorial/blob/master/mac(78).pdf" style="text-decoration:none;">NLTK Essentials: Build cool NLP and machine learning applications using NLTK and other Python libraries</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Machine-Learning-Tutorial/blob/master/mac(79).pdf" style="text-decoration:none;">Scala and Spark for Big Data Analytics</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Machine-Learning-Tutorial/blob/master/mac(80).pdf" style="text-decoration:none;">The Deep Learning Revolution</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Machine-Learning-Tutorial/blob/master/mac(81).pdf" style="text-decoration:none;">Thoughtful Machine Learning with Python</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Machine-Learning-Tutorial/blob/master/mac(82).pdf" style="text-decoration:none;">Deep Learning Cookbook: Practical Recipes to Get Started Quickly</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Machine-Learning-Tutorial/blob/master/mac(83).pdf" style="text-decoration:none;">Demystifying Big Data and Machine Learning for Healthcare</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Machine-Learning-Tutorial/blob/master/mac(84).pdf" style="text-decoration:none;">Fundamentals of Machine Learning for Predictive Data Analytics</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Machine-Learning-Tutorial/blob/master/mac(85).rar" style="text-decoration:none;">A Beginner's Tutorial for Machine Learning Beginners</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Machine-Learning-Tutorial/blob/master/mac(86).pdf" style="text-decoration:none;">Natural Language Processing with PyTorch: Build Intelligent Language Applications Using Deep Learning</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Machine-Learning-Tutorial/blob/master/mac(87).pdf" style="text-decoration:none;">Keras to Kubernetes: The Journey of a Machine Learning Model to Production</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Machine-Learning-Tutorial/blob/master/mac(88).pdf" style="text-decoration:none;">Black Hat Python: Python Programming for Hackers and Pentesters</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Machine-Learning-Tutorial/blob/master/mac(89).pdf" style="text-decoration:none;">Machine Learning: A Bayesian and Optimization Perspective</a></li>
 
 
 
