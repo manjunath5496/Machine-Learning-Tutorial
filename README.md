@@ -670,7 +670,7 @@ A simple Bayesian network. Rain influences whether the sprinkler is activated, a
                             
  <li><a target="_blank" href="https://github.com/manjunath5496/Machine-Learning-Tutorial/blob/master/mac(32).pdf" style="text-decoration:none;">Machine Learning with R</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Machine-Learning-Tutorial/blob/master/mac(33).rar" style="text-decoration:none;">The Algorithm Design Manual</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Machine-Learning-Tutorial/blob/master/mac(33).pdf" style="text-decoration:none;">Advances in Financial Machine Learning</a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/Machine-Learning-Tutorial/blob/master/mac(34).rar" style="text-decoration:none;">Machine Learning: A Probabilistic Perspective</a></li>                              
 <li><a target="_blank" href="https://github.com/manjunath5496/Machine-Learning-Tutorial/blob/master/mac(35).pdf" style="text-decoration:none;">Machine Learning: An Algorithmic Perspective</a></li>
 
@@ -682,7 +682,7 @@ A simple Bayesian network. Rain influences whether the sprinkler is activated, a
  <li><a target="_blank" href="https://github.com/manjunath5496/Machine-Learning-Tutorial/blob/master/mac(39).pdf" style="text-decoration:none;">Master Machine Learning Algorithms: Discover How They Work and Implement Them From Scratch</a></li>
 
 <li><a target="_blank" href="https://github.com/manjunath5496/Machine-Learning-Tutorial/blob/master/mac(40).pdf" style="text-decoration:none;">Mastering Apache Spark 2.x</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Machine-Learning-Tutorial/blob/master/mac(41).pdf" style="text-decoration:none;">Data Algorithms</a></li>                              
+ <li><a target="_blank" href="https://github.com/manjunath5496/Machine-Learning-Tutorial/blob/master/mac(41).pdf" style="text-decoration:none;">AI for Data Science: Artificial Intelligence Frameworks and Functionality for Deep Learning, Optimization, and Beyond</a></li>                              
 <li><a target="_blank" href="https://github.com/manjunath5496/Machine-Learning-Tutorial/blob/master/mac(42).pdf" style="text-decoration:none;">Mastering TensorFlow 1.x</a></li>
 
  <li><a target="_blank" href="https://github.com/manjunath5496/Machine-Learning-Tutorial/blob/master/mac(43).pdf" style="text-decoration:none;">MATLAB Deep Learning: With Machine Learning, Neural Networks and Artificial Intelligence</a></li>                              
@@ -707,6 +707,29 @@ A simple Bayesian network. Rain influences whether the sprinkler is activated, a
 
 <li><a target="_blank" href="https://github.com/manjunath5496/Machine-Learning-Tutorial/blob/master/mac(58).pdf" style="text-decoration:none;">Reinforcement Learning With Open AI, TensorFlow and Keras Using Python</a></li>                              
 <li><a target="_blank" href="https://github.com/manjunath5496/Machine-Learning-Tutorial/blob/master/mac(59).pdf" style="text-decoration:none;">Artificial Neural Networks and Machine Learning – ICANN 2016</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Machine-Learning-Tutorial/blob/master/mac(60).pdf" style="text-decoration:none;">From Curve Fitting to Machine Learning: An Illustrative Guide to Scientific Data Analysis and Computational Intelligence</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Machine-Learning-Tutorial/blob/master/mac(61).pdf" style="text-decoration:none;">Fundamentals of Deep Learning: Designing Next-Generation Machine Intelligence Algorithms</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Machine-Learning-Tutorial/blob/master/mac(62).pdf" style="text-decoration:none;">Hands-On Data Analysis with NumPy and pandas: Implement Python packages from data manipulation to processing</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Machine-Learning-Tutorial/blob/master/mac(63).pdf" style="text-decoration:none;">Learn Azure in a Month of Lunches</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Machine-Learning-Tutorial/blob/master/mac(64).pdf" style="text-decoration:none;">Leverage Machine Learning APIs to build smart applications</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Machine-Learning-Tutorial/blob/master/mac(65).pdf" style="text-decoration:none;">Learning with Kernels: Support Vector Machines, Regularization, Optimization, and Beyond</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Machine-Learning-Tutorial/blob/master/mac(66).pdf" style="text-decoration:none;">Blockchain: Novice to Expert</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Machine-Learning-Tutorial/blob/master/mac(67).pdf" style="text-decoration:none;">Deep Learning: Recurrent Neural Networks in Python</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Machine-Learning-Tutorial/blob/master/mac(68).pdf" style="text-decoration:none;">Deployment with Docker</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Machine-Learning-Tutorial/blob/master/mac(69).pdf" style="text-decoration:none;">Machine Learning in Healthcare Informatics</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Machine-Learning-Tutorial/blob/master/mac(70).pdf" style="text-decoration:none;">Machine Learning: The Art and Science of Algorithms that Make Sense of Data</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Machine-Learning-Tutorial/blob/master/mac(71).pdf" style="text-decoration:none;">Pragmatic AI</a></li>
+
+
+
+
 
 
 
