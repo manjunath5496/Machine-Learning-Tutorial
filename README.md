@@ -992,16 +992,6 @@ Machine Learning, Digital Manufacturing, and Supply Chain Optimization</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Machine-Learning-Tutorial/blob/master/mac(88).pdf" style="text-decoration:none;">Black Hat Python: Python Programming for Hackers and Pentesters</a></li>                              
 <li><a target="_blank" href="https://github.com/manjunath5496/Machine-Learning-Tutorial/blob/master/mac(89).pdf" style="text-decoration:none;">Machine Learning: A Bayesian and Optimization Perspective</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Machine-Learning-Tutorial/blob/master/mac(86).pdf" style="text-decoration:none;">Natural Language Processing with PyTorch: Build Intelligent Language Applications Using Deep Learning</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Machine-Learning-Tutorial/blob/master/mac(87).pdf" style="text-decoration:none;">Keras to Kubernetes: The Journey of a Machine Learning Model to Production</a></li>
-
-<li><a target="_blank" href="https://github.com/manjunath5496/Machine-Learning-Tutorial/blob/master/mac(88).pdf" style="text-decoration:none;">Black Hat Python: Python Programming for Hackers and Pentesters</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Machine-Learning-Tutorial/blob/master/mac(89).pdf" style="text-decoration:none;">Machine Learning: A Bayesian and Optimization Perspective</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Machine-Learning-Tutorial/blob/master/mac(86).pdf" style="text-decoration:none;">Natural Language Processing with PyTorch: Build Intelligent Language Applications Using Deep Learning</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Machine-Learning-Tutorial/blob/master/mac(87).pdf" style="text-decoration:none;">Keras to Kubernetes: The Journey of a Machine Learning Model to Production</a></li>
-
-<li><a target="_blank" href="https://github.com/manjunath5496/Machine-Learning-Tutorial/blob/master/mac(88).pdf" style="text-decoration:none;">Black Hat Python: Python Programming for Hackers and Pentesters</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Machine-Learning-Tutorial/blob/master/mac(89).pdf" style="text-decoration:none;">Machine Learning: A Bayesian and Optimization Perspective</a></li>
 
 <li><a target="_blank" href="https://github.com/manjunath5496/Machine-Learning-Tutorial/blob/master/mac(90).pdf" style="text-decoration:none;">Machine Learning for the Web</a></li>                              
 <li><a target="_blank" href="https://github.com/manjunath5496/Machine-Learning-Tutorial/blob/master/mac(91).pdf" style="text-decoration:none;">Machine Learning Mastery With Python: Understand Your Data, Create Accurate Models and Work Projects End-To-End</a></li>
