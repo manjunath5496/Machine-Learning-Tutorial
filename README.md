@@ -1033,3 +1033,7 @@ Machine Learning, Digital Manufacturing, and Supply Chain Optimization</a></li>
 </ul>
 
 </br>
+<ul>
+<li><a href="https://github.com/manjunath5496/Machine-Learning-Tutorial/blob/master/Lecture%20Notes/README.md">MIT Lecture Notes</a></li>
+</ul>
+</br>
