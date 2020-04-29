@@ -76,3 +76,59 @@
 </tr>
 </tbody>
 </table>
+</br>
+<h2>Assignments: problem sets with solutions </h2>
+<table class="tablewidth75" summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">ASSIGNMENTS</th>
+<th scope="col">SOLUTIONS</th>
+<th scope="col">SUPPORTING&nbsp;FILES</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td>Problem set 1 (<a href="hw1.pdf" data-smd-id="s106">PDF</a>)</td>
+<td>
+<p>Section A (<a href="hw1a_soln.pdf" data-smd-id="s107">PDF</a>)</p>
+<p>Section B (<a href="hw1b_soln.pdf" data-smd-id="s108">PDF</a>)</p>
+<p>perceptron_test.m (<a href="perceptron_test.m" data-smd-id="s109">M</a>)</p>
+<p>perceptron_train.m (<a href="perceptron_train.m" data-smd-id="s110">M</a>)</p>
+</td>
+<td>
+<p>Errata (<a href="hw1errata.txt" data-smd-id="s111">TXT</a>)</p>
+<p>p1.zip (<a href="p1.zip" data-smd-id="s112">ZIP</a>) (The ZIP file contains: 3 .m files and 4 .dat files.)</p>
+<p>p3.zip (<a href="p3.zip" data-smd-id="s113">ZIP - 8.5 MB</a>) (The ZIP file contains: 3 .svm files.)</p>
+<p>strimage.m (<a href="strimage.m" data-smd-id="s114">M</a>)</p>
+</td>
+</tr>
+<tr class="alt-row">
+<td>Problem set 2 (<a href="hw2.pdf" data-smd-id="s115">PDF</a>)</td>
+<td>(<a href="hw2_soln.pdf" data-smd-id="s116">PDF</a>)</td>
+<td>Errata (<a href="hw2errata.txt" data-smd-id="s117">TXT</a>)</td>
+</tr>
+<tr class="row">
+<td>Problem set 3 (<a href="hw3.pdf" data-smd-id="s118">PDF</a>)</td>
+<td>(<a href="hw3_soln.pdf" data-smd-id="s119">PDF</a>)</td>
+<td>Errata (<a href="hw3errata.txt" data-smd-id="s120">TXT</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Problem set 4 (<a href="hw4.pdf" data-smd-id="s121">PDF</a>)</td>
+<td>(<a href="hw4_soln.pdf" data-smd-id="s122">PDF</a>)</td>
+<td>Errata (<a href="hw4errata.txt" data-smd-id="s123">TXT</a>)</td>
+</tr>
+<tr class="row">
+<td>Problem set 5 (<a href="hw5.pdf" data-smd-id="s124">PDF</a>)</td>
+<td>(<a href="hw5_soln.pdf" data-smd-id="s125">PDF</a>)</td>
+<td>
+<p>Errata (<a href="hw5errata.txt" data-smd-id="s126">TXT</a>)</p>
+<p>Prob1 data (<a href="prob1_data.zip" data-smd-id="s127">ZIP</a>) (The ZIP file contains: 12 .m files,&nbsp;1 .de file.)</p>
+<p>Prob2 data (<a href="prob2_data.zip" data-smd-id="s128">ZIP</a>) (The ZIP file contains: 10 .m files and 2 .dat files.)</p>
+</td>
+</tr>
+</tbody>
+</table>
+</br>
+
+
+
