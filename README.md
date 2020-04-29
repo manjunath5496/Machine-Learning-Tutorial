@@ -1036,5 +1036,8 @@ Machine Learning, Digital Manufacturing, and Supply Chain Optimization</a></li>
 <ul>
 <li><a href="https://github.com/manjunath5496/Machine-Learning-Tutorial/blob/master/Lecture%20Notes/README.md">MIT Lecture Notes (ML)</a></li>
  <li><a href="https://github.com/manjunath5496/Machine-Learning-Tutorial/blob/master/Lectures/README.md">MIT Lecture Notes (Mathematics of ML)</a></li>
+ 
+ <li><a href="https://manjunath5496.github.io/ml-quiz/index.html">ML Quiz</a></li>
+  <li><a href="https://www.youtube.com/results?search_query=Machine+Learning+Tutorial">ML videos</a></li>
 </ul>
 </br>
