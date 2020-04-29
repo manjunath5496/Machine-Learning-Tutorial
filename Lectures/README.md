@@ -73,3 +73,7 @@
 </tbody>
 </table>
 </br>
+<ul>
+<li>Full lecture notes&nbsp;&nbsp;<a href="MIT18_657F15_LecNote.pdf" data-smd-id="s104">(PDF - 2.7MB)</a>.</li>
+</ul>
+</br>
