@@ -130,5 +130,56 @@
 </table>
 </br>
 
-
-
+<table class="tablewidth50" summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">EXAMS</th>
+<th scope="col">SOLUTIONS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td colspan="2"><strong>Midterms</strong></td>
+</tr>
+<tr class="alt-row">
+<td>Fall 2006</td>
+<td>(<a href="midterm_f06soln.pdf" data-smd-id="s106">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Fall 2004 (<a href="midterm_f04.pdf" data-smd-id="s107">PDF</a>)</td>
+<td>(<a href="midterm_f04soln.pdf" data-smd-id="s108">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Fall 2003 (<a href="midterm_f03.pdf" data-smd-id="s109">PDF</a>)</td>
+<td>(<a href="midterm_f03soln.pdf" data-smd-id="s110">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Fall 2002 (<a href="midterm_f02.pdf" data-smd-id="s111">PDF</a>)</td>
+<td>(<a href="midterm_f02soln.pdf" data-smd-id="s112">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Fall 2001 (<a href="midterm_f01.pdf" data-smd-id="s113">PDF</a>)</td>
+<td>(<a href="midterm_f01soln.pdf" data-smd-id="s114">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td colspan="2"><strong>Finals</strong></td>
+</tr>
+<tr class="alt-row">
+<td>Fall 2004 (<a href="final_f04.pdf" data-smd-id="s115">PDF</a>)</td>
+<td>(<a href="final_f04soln.pdf" data-smd-id="s116">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Fall 2003 (<a href="final_f03.pdf" data-smd-id="s117">PDF</a>)</td>
+<td>(<a href="final_f03soln.pdf" data-smd-id="s118">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Fall 2002 (<a href="final_f02.pdf" data-smd-id="s119">PDF</a>)</td>
+<td>(<a href="final_f02soln.pdf" data-smd-id="s120">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Fall 2001 (<a href="final_f01.pdf" data-smd-id="s121">PDF</a>)</td>
+<td>(<a href="final_f01soln.pdf" data-smd-id="s122">PDF</a>)</td>
+</tr>
+</tbody>
+</table>
+</br>
