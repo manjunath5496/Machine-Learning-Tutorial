@@ -196,7 +196,7 @@
 <tr>
 <td>
 <div id="NavFrame9" class="NavFrame collapsed">
-<div class="NavHead">Theory<a id="NavToggle9" class="NavToggle" href="https://en.wikipedia.org/wiki/Machine_learning#">[hide]</a></div>
+<div class="NavHead">Theory</div>
 <div class="NavContent">
 <div class="hlist">
 <ul>
