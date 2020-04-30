@@ -234,7 +234,6 @@
 <tr>
 <td>
 <div id="NavFrame11" class="NavFrame collapsed">
-<div class="NavHead"><a title="Glossary of artificial intelligence" href="https://en.wikipedia.org/wiki/Glossary_of_artificial_intelligence">Glossary of artificial intelligence</a></div>
 <div class="NavContent">
 <div class="hlist">
 <ul>
